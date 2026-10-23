@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
